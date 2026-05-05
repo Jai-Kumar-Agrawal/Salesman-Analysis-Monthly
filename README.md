@@ -42,7 +42,7 @@
 * Highest Target Achievement: Anikuttan (Delhi)
   
 
-  ![Salesman Dashboard](Salesman_dashbord.png)
+  ![Salesman Dashboard](Salesman_dashboard.png)
 
   
 
