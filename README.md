@@ -40,6 +40,11 @@
 
 * Highest Salesman: Jagdish Chandra (Surat)
 * Highest Target Achievement: Anikuttan (Delhi)
+  
+
+  ![Salesman Dashboard](Salesman_dashbord.png)
+
+  
 
 ### 🔹 Learnings
 
